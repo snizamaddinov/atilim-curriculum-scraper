@@ -2,13 +2,11 @@ import json
 import os
 from playwright.sync_api import sync_playwright
 
-def generate_pdfs(json_file="compe_curriculum.json"):
-    # 1. Create output directory
-    output_dir = "course_pdfs_screen"
+def generate_desktop_pdfs(json_file="compe_curriculum.json"):
+    output_dir = "course_pdfs_screen2"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # 2. Load data
     try:
         with open(json_file, "r", encoding="utf-8") as f:
             courses = json.load(f)
@@ -17,18 +15,22 @@ def generate_pdfs(json_file="compe_curriculum.json"):
         return
 
     with sync_playwright() as p:
-        # PDF generation ONLY works in headless mode
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context()
+        
+        # 1. Set explicit viewport size (Desktop width)
+        # This prevents the site from collapsing into mobile/tablet mode.
+        context = browser.new_context(
+            viewport={"width": 1920, "height": 1080},
+            device_scale_factor=1 
+        )
         page = context.new_page()
 
-        print(f"Generating PDFs for {len(courses)} courses...")
+        print(f"Generating Desktop Layout PDFs for {len(courses)} courses...")
 
         for course in courses:
             lesson_code = course.get("data-lesson-code", "UNKNOWN")
             url = course.get("detail_link")
             
-            # Clean filename
             safe_filename = "".join(c for c in lesson_code if c.isalnum() or c in (' ', '-', '_')).strip()
             pdf_path = os.path.join(output_dir, f"{safe_filename}.pdf")
 
@@ -38,23 +40,29 @@ def generate_pdfs(json_file="compe_curriculum.json"):
             print(f"Processing: {lesson_code}...")
 
             try:
-                # Go to page
                 page.goto(url, wait_until="domcontentloaded")
 
-                # --- THE MAGIC STEP ---
-                # This forces the browser to render the page using the "Print" CSS 
-                # exactly like DevTools -> Rendering -> Emulate CSS media: print
+                # 2. Force Screen Media
+                # Renders colors and layout exactly as seen on a monitor
                 page.emulate_media(media="screen")
 
-                # Generate the PDF
-                # format="A4": Standard paper size
-                # print_background=True: Keeps colors/shading in tables (important for curriculums)
-                # margin: Adds whitespace so text doesn't hit the edge
+                # 3. Clean up the page (Optional but recommended)
+                # Removes the footer or header if they overlay content in the PDF
+                # page.evaluate("""() => {
+                #     // Example: Remove fixed headers that might block text
+                #     const header = document.querySelector('header');
+                #     if (header) header.style.position = 'static';
+                # }""")
+
+                # 4. Generate PDF
+                # 'width' helps map the 1920px content onto paper.
+                # If content is cut off, we can scale it down.
                 page.pdf(
                     path=pdf_path,
                     format="A4",
                     print_background=True,
-                    margin={"top": "20mm", "bottom": "20mm", "left": "20mm", "right": "20mm"}
+                    margin={"top": "10mm", "bottom": "10mm", "left": "10mm", "right": "10mm"},
+                    scale=0.65  # Scales the 1920px view to fit onto A4 paper
                 )
 
             except Exception as e:
@@ -64,4 +72,4 @@ def generate_pdfs(json_file="compe_curriculum.json"):
         print(f"All PDFs saved to '{output_dir}/'.")
 
 if __name__ == "__main__":
-    generate_pdfs()
+    generate_desktop_pdfs()
