@@ -4,12 +4,10 @@ import sys
 from playwright.sync_api import sync_playwright
 
 def generate_pdfs(json_file_path, output_folder_name):
-    # 1. Create output directory
     if not os.path.exists(output_folder_name):
         os.makedirs(output_folder_name)
         print(f"Created directory: {output_folder_name}")
 
-    # 2. Load data
     try:
         with open(json_file_path, "r", encoding="utf-8") as f:
             courses = json.load(f)
@@ -19,8 +17,7 @@ def generate_pdfs(json_file_path, output_folder_name):
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        
-        # Set Desktop Viewport to ensure layout is not mobile/responsive
+
         context = browser.new_context(
             viewport={"width": 1920, "height": 1080},
             device_scale_factor=1
@@ -32,8 +29,7 @@ def generate_pdfs(json_file_path, output_folder_name):
         for course in courses:
             lesson_code = course.get("data-lesson-code", "UNKNOWN")
             url = course.get("detail_link")
-            
-            # Clean filename
+
             safe_filename = "".join(c for c in lesson_code if c.isalnum() or c in (' ', '-', '_')).strip()
             pdf_path = os.path.join(output_folder_name, f"{safe_filename}.pdf")
 
@@ -43,12 +39,10 @@ def generate_pdfs(json_file_path, output_folder_name):
             print(f"Processing: {lesson_code}...")
 
             try:
-                # 3. Wait for DOM Content Loaded as requested
                 page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
                 # 4. Remove Header, Footer, and Sidebar
                 page.evaluate("""() => {
-                    // Helper to remove element by selector
                     const remove = (sel) => {
                         const el = document.querySelector(sel);
                         if (el) el.remove();
@@ -57,16 +51,14 @@ def generate_pdfs(json_file_path, output_folder_name):
                     remove('header');              // Remove <header> tags
                     remove('footer');              // Remove <footer> tags
                     remove('.sidebar-container');  // Remove specific class
-                    
+
                     // Optional: Remove any fixed bottom/top bars that might persist
                     document.body.style.paddingTop = '0px';
                     document.body.style.paddingBottom = '0px';
                 }""")
 
-                # 5. Force Screen Media (keeps desktop colors/styles)
                 page.emulate_media(media="screen")
 
-                # 6. Generate PDF
                 # Scale is set to 0.65 to fit the 1920px viewport onto an A4 page width
                 page.pdf(
                     path=pdf_path,
@@ -84,10 +76,10 @@ def generate_pdfs(json_file_path, output_folder_name):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python generate_pdfs.py <input_json> <output_folder>")
+        print("Usage: python pdf.py <input_json> <output_folder>")
         sys.exit(1)
-    
+
     input_json = sys.argv[1]
     output_folder = sys.argv[2]
-    
+
     generate_pdfs(input_json, output_folder)
