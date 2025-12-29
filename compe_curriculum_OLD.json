@@ -1,29 +1,5 @@
 [
     {
-        "data-lesson-code": "ART288",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/207/20465/detail"
-    },
-    {
-        "data-lesson-code": "CMPE312",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/16/17218/detail"
-    },
-    {
-        "data-lesson-code": "ART265 ",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/209/13861/detail"
-    },
-    {
-        "data-lesson-code": "SE470",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/15/1164/detail"
-    },
-    {
-        "data-lesson-code": "SE461",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/21096/detail"
-    },
-    {
-        "data-lesson-code": "IE314",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/208/12238/detail"
-    },
-    {
         "data-lesson-code": "CMPE113",
         "data-circulum-id": "12",
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/3663/detail"
@@ -169,6 +145,11 @@
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/624/detail"
     },
     {
+        "data-lesson-code": "FE301",
+        "data-circulum-id": "12",
+        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/199298/detail"
+    },
+    {
         "data-lesson-code": "SE346",
         "data-circulum-id": "12",
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/1540/detail"
@@ -189,14 +170,9 @@
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/649/detail"
     },
     {
-        "data-lesson-code": "TURK201",
-        "data-circulum-id": "287",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/287/17158/detail"
-    },
-    {
-        "data-lesson-code": "TURK401",
+        "data-lesson-code": "FE302",
         "data-circulum-id": "12",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/17269/detail"
+        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/12/199299/detail"
     },
     {
         "data-lesson-code": "CMPE499",

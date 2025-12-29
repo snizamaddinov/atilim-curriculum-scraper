@@ -1,0 +1,155 @@
+[
+    {
+        "course_code": "MATH111",
+        "title": "Basic Logic and Algebra (MATH111)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "To provide an introduction to logic, number theory and groups, rings and fields through examples. Moreover to encourage the students to investigate proofs of some algebraic expressions and theorems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; write a statement using logical expressions, evaluate logical expressions and perform the basic operations on sets, prove some  mathematical statements and theorems, determine whether a relation is an equivalence relation or not, understand and use divisibility and the Euclidean Algorithm, know elementary definitions and examples in groups, rings, and fields.",
+            "Course Content": "Logic, sets, induction, relations, functions, elementary number theory, elementary examples of groups, rings and fields, the real numbers."
+        }
+    },
+    {
+        "course_code": "MATH121",
+        "title": "Analytic Geometry I (MATH121)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed as a first year course for mathematics students. The goal of the course is to recover the sets, relations and functions and cartesian coordinates in the plane, to review line equations and some methods on graphing relations and functions and also graphs in polar coordinates, to have some basic ideas about vectors in the plane with some of their applications, to make some discussions on parabolas, ellipses, hyperbolas with graphs and their applications.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand the sets, relations and  functions understand Cartesian coordinates in the plane, lines and be able to sketch the of relations and graphs in polar coordinates understand vectors in the plane and their applications learn the parabola, ellipse and hyperbola and their applications",
+            "Course Content": "Fundamental principles of analytic geometry, cartesian coordinates, lines in plane, trigonometry, polar coordinates, rotation and translation in plane, conics."
+        }
+    },
+    {
+        "course_code": "MATH231",
+        "title": "Linear Algebra I (MATH231)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The aim of the course is to provide the basic linear algebra background needed by mathematicians. Many concepts in the course will be presented in the familiar setting of the plane and n-dimensional space, and will be developed with an awareness of how linear algebra is applied.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand basics of matrix theory, solve linear systems of equations using matrices, understand  fundamentals of vector spaces, understand the theory of linear transformations.",
+            "Course Content": "Matrices and linear equations, determinants, vector spaces, linear transformations."
+        }
+    },
+    {
+        "course_code": "MATH251",
+        "title": "Advanced Calculus I (MATH251)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is desined to introduce higher-level aspects of the calculus through a rigorous development of the fundamental ideas in the topic and to achieve a further development of the math student’s ability to deal with abstract mathematics and proofs.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Comprehend and use the functions of several variables, Comprehend and use the functions of several variables, Find extreme values for functions of two and three variables, Model and solve optimization problems with side conditions.",
+            "Course Content": "Vector and matrix algebra, functions of several variables: limit, continuity, partial derivatives, chain rule; implicit functions. inverse functions, directional derivatives, maxima and minima of functions of several variables, extrema for functions with side conditions."
+        }
+    },
+    {
+        "course_code": "MATH262",
+        "title": "Ordinary Differential Equations (MATH262)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to enrich the knowledge of mathematics students in differential equations after calculus. As a replacement and enlargement of currently given Math 262 Differential Equations course, it is intended to present the subject being motivated from the basic mathematical concepts such as differentiation, integration, power series and to include further applications related to differential equations mostly used in mathematical problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; be able to determine the existence and uniqueness of a solution and select the appropriate method for finding the solution. use appropriate methods for solution of first, second and higher order ODE’s. express physical laws in the language of differential equations. solve these equations by modern techniques and interpret his results in terms of the original problem. solve differential equations using power series and Laplace transform methods. solve linear systems of differential equations by elimination and Laplace transform methods.",
+            "Course Content": "First-order, higher-order linear ordinary differential equations, applications of first-order differential equations, series solutions of differential equations, Laplace transforms, linear systems of ordinary differential equations."
+        }
+    },
+    {
+        "course_code": "MATH232",
+        "title": "Linear Algebra II (MATH232)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "Being a continuation of Math 231, the aim is to introduce the students to the very heart of the subject including topics such as inner product spaces and linear mappings on them, canonical (diagonal, triangular, Jordan, and rational) matrix forms of linear mappings, bilinear and quadratic forms.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand the basics of inner product spaces, decompose a vector space as a direct sum of its subspaces, obtain special types of matrices representing a given linear map, understand and find eigenvalues and eigenvectors, determine if a matrix is diagonalizable, and if it is, diagonalize it, find bases for eigenspaces, find bases for dual space of a vector space, understand fundamentals of bilinear and quadratic forms.",
+            "Course Content": "Eigenvalues and eigenvectors, elementary canonical forms, the rational and Jordan forms, inner product spaces, operators on Inner product spaces, bilinear forms."
+        }
+    },
+    {
+        "course_code": "MATH252",
+        "title": "Advanced Calculus II (MATH252)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course is designed as a continuation of Math 251 Advenced Calculus I and aims to introduce students higher-level aspects of the calculus through a rigorous development of the fundamental ideas in the topic and to achieve a further development of the math student's ability to deal with abstract mathematics and proofs.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Comprehend and use vector and scalar fields, the gradient field and the curl of a vector field, Comprehend and use multiple integrals in different coordinate systems, Know and use the line and surface integrals together with their applications, Apply Green’s and Stoke’s theorems",
+            "Course Content": "Vector and scalar fields. Double integrals. Triple integrals. Integral of vector functions. Improper İntegrals. Line İntegrals. Green?s theorem. Surface integrals. The divergence Theorem. Stoke?s Theorem"
+        }
+    },
+    {
+        "course_code": "MATH325",
+        "title": "Elementary Number Theory (MATH325)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to introduce the basic concepts of the theory of numbers.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand and use the properties of divisibility. solve linear Diophantine equations. solve congruences of various types, apply Chinese Remainder Theorem. understand and use Fermat's little theorem, Wilson's theorem. prove and apply properties of Euler’s phi-function. know the properties of Legendre symbol, use the laws of quadratic reciprocity.",
+            "Course Content": "Divisibility, congruences , Euler, Chinese Remainder and Wilson?s Theorems, arithmetical functions, primitive roots, quadratic residues and quadratic reciprocity, diophantine equations."
+        }
+    },
+    {
+        "course_code": "MATH232",
+        "title": "Finite Fields (MATH332)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to introduce the basic theory of field extensions and finite fields which have various applications in both cryptography and coding theory.",
+            "Course Learning Outcomes": "The students who succeeded in this course; gain knowledge about field extensions, be able to compute in a finite field, gain knowledge about polynomials over finite fields understand and use traces and norms in finite fields, learn how to factorize polynomials over finite fields.",
+            "Course Content": "Characterization of finite fields, roots of irreducible polynomials, trace, norm, roots of unity and cyclotomic polynomials, order of polynomials and primitive polynomials, irreducible polynomials, construction of irreducible polynomials, factorization of polynomials"
+        }
+    }
+]

@@ -34,7 +34,42 @@ def scrape_curriculum(base_url):
     lesson_cards = soup.find_all('a', class_='lesson_card')
     print(f"Found {len(lesson_cards)} lesson cards.")
 
-    courses_data = []
+    courses_data = [
+        {
+            'data-lesson-code': 'ART288',
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/207/20465/detail"
+        },
+        {
+            'data-lesson-code': 'CMPE312',
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/16/17218/detail"
+        },
+        {
+            'data-lesson-code': 'ART265 ',
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/209/13861/detail"
+        },
+        {
+            'data-lesson-code': 'SE470',
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/15/1164/detail"
+        },
+        {
+            'data-lesson-code': 'SE461',
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/12/21096/detail"
+        },
+        {
+            'data-lesson-code': 'IE314',
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/208/12238/detail"
+        }
+    ]
+
+    excludes = ['KRY111', 'ATU100', 'FE301', 'FE302']
+    replaces = {
+        'TURK401' : {
+            'data-lesson-code': "TURK201",
+            'data-circulum-id': "287",
+            'detail_link': "https://www.atilim.edu.tr/en/ects/site-courses/287/17158/detail"
+        },
+
+    }
 
     for card in lesson_cards:
         lesson_code = card.get_text(strip=True)
@@ -42,6 +77,12 @@ def scrape_curriculum(base_url):
 
         if not lesson_code or not curriculum_id:
             continue
+
+        if lesson_code in excludes:
+            continue
+
+        if lesson_code in replaces:
+            courses_data.append(replaces[lesson_code])
 
         print(f"Processing {lesson_code} (ID: {curriculum_id})...")
 

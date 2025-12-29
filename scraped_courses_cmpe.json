@@ -1,0 +1,937 @@
+[
+    {
+        "course_code": "ART288",
+        "title": "Rhetoric: Beautiful and Effective Speaking Art (ART288)",
+        "details": {
+            "Course Language": "Turkish",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The aim of the course: As an individual being able to tend to more positive opinions and behaviours, to influence and convince listeners, by following the rules of tone, diction, emphasis and mimicry.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Understand the importance of rhetoric Understand and be able to use the concepts of motivation, persuasion, creativity, diction, etc... Learn how to influence others and use these concepts in your communities",
+            "Course Content": "Expressing thoughts and opinions in the best, most effective and most accurate manner, speaking effectively, and persuading communities."
+        }
+    },
+    {
+        "course_code": "CMPE312",
+        "title": "Visual Programming (CMPE312)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Natural & Applied Sciences Master's Degree",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of the course is to cover visual programming skills needed for modern software development.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Demonstrate fundamental skills in utilizing the tools of a visual environment in terms of the set of available command menus and toolbars Explain and use of delegates and events for producing event-driven application Implement SDI and MDI applications while using forms, dialogs, and other types of GUI components Produce and use specialized new GUI components Explain message passing mechanism between components and threads using messaging Apply visual programming to software development by designing projects with menus and submenus Use visual programming environment to create simple visual applications",
+            "Course Content": "Review of object-oriented programming, visual programming basics such as value types, operator overloading, exception and event handling; using GUI frameworks; working with files and data access by using XML."
+        }
+    },
+    {
+        "course_code": "ART265 ",
+        "title": "Creativity in Business Life (ART265)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The aim of this course having the ability to develop and to use creativity.",
+            "Course Learning Outcomes": "The students who succeeded in this course; To be able to promote practical solutions Crisis management in business life and private life Risk measurement on taking decisions process Being open to be experimental and to take risks",
+            "Course Content": "Methods of creativity; using creativity in business life; overview and critique of the sector; new approaches by means of art; innovation."
+        }
+    },
+    {
+        "course_code": "SE470",
+        "title": "Agile Methods in Software Development (SE470)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Technical Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course objective is to teach the fundamental principles and practices associated with each of the agile development methods. A variety of agile methods will be described, but the focus will be on Scrum and Extreme Programming.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Recognize the significance of Agile Methodologies in software development Compare and contrast the different agile methods Determine the suitability of agile methods for a particular Project Evaluate how well a project is following agile principles, and assist the project to become more agile (where appropriate) Understand the relationship between the customer and the development team in agile projects and the responsibilities of both communities.",
+            "Course Content": "Introduction to agile methods, eXtreme Programming (XP), Lean, Scrum, Crystal, feature-driven development (FDD), Kanban; dynamic systems development method (DSDM); architecture and design issues in agile software methods."
+        }
+    },
+    {
+        "course_code": "SE461",
+        "title": "Software Patterns (SE461)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of this course is to introduce effective methods of design issues for high quality software systems. It also aims at teaching refactoring concepts.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Recognize and define common design patterns Identify appropriate patterns for design problems Apply refactoring to poorly designed software by using design patterns Create code implementations of design patterns Discuss implementation trade-offs of certain patterns with respect to others",
+            "Course Content": "Introduction to design patterns, creational patterns, structural patterns, behavioural patterns, analysis patterns, architectural patterns, testing, refactoring."
+        }
+    },
+    {
+        "course_code": "IE314",
+        "title": "Project Management (IE314)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer, Problem Solving, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor Dr. Hakan Ömer Tunca",
+            "Course Assistants": "",
+            "Course Objectives": "This course aims at introducing the students to techniques that allow them to start, develop, complete, and implement projects more efficiently and effectively. It helps the students to become more aware of the relationship between the project manager’s talents and contribution of the project personnel for and the successful performance of the entire project. It tries to enable the students to establish a sounding control over the budget of the project, by making them to recognize when and why a project is not proceeding according to plan both financially and schedule vise , and to know if the plan needs to be revised or replaced with one that is more realistic. It, also, suggests some ways to conclude effective contracts and to avoid risks and conflicts.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Students will be able to present a systematic approach to planning, performance, and control of projects. Students will recognize the importance of leadership style and inter-team cooperation for establishing a sound control over the project. Students will be able to differentiate among the plans to develop methods for converting ideas into a product or service. Students will interpret the importance and the requirements of team work for managing projects successfully.",
+            "Course Content": "Elements and phases of project management; functions (planning, staffing, scheduling, monitoring, and control) and techniques (CPM, PERT, etc.) of project management; software tools for project management; project cost control and time/resource management; leadership styles, conflict and risk management."
+        }
+    },
+    {
+        "course_code": "CMPE113",
+        "title": "Computer Programming I (CMPE113)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course gives an introduction to problem solving and programming using C Language. The course includes topics of algorithm development, sequential, selection, iterative statements and modular programming. The course provides students to write readable programs with sufficient documentation.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Develop algorithms for problem solution Use selection statements in programming Apply iteration statements Explain modular programming and function design Construct readable programs with sufficient documentation",
+            "Course Content": "Algorithm development, fundamental elements of the C language, selection statements, iteration statements, standard library functions, user-defined functions, parameter passing, application programs in a laboratory environment using the C language."
+        }
+    },
+    {
+        "course_code": "HIST101",
+        "title": "Principles of Atatürk and History of Turkish Revolution I (HIST101)",
+        "details": {
+            "Course Language": "Turkish",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Distance",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Asst. Prof. Dr. Gültekin K. Birlik",
+            "Course Assistants": "",
+            "Course Objectives": "To teach patriotism to students; to make them aware of significance of Ataturk’s principles and raise them as loyal subjects to these principles; to give them insight into the processes of modern democratic administrative modes by improving their understanding of democracy.\nTo enable the students to acquire the appropriate attitude, behaviour and skills to be able to find solutions to contemporary problems against the backdrop of Ataturk’s principles.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Students will have sufficient knowledge of the History of Turkish Republic and Modern Turkey with a thorough understanding of the Principles of Mustafa Kemal Atatürk.\nThe students will have a clear understanding of the below given issues in the process from the Tanzimat Period when the modernisation of the Ottoman State started till  the declaration of Turkish Republic:\n-the political phenomena of the period in a cause and effect chain,\n-Important economic decisions and their results,\n-the line of evolution of the history of Turkish democracy,\n-the substantial issues in Turkish Constitution,\n-the causes and effects of Balkan War and World War I,\n-how and in what conditions the National Liberation War was won,\n-the implications and the content of the Lozenge Treaty.",
+            "Course Content": "French Revolution; structure and geopolitic positioning of Ottoman Empire, reasons of its decline; Westernization movements, First and Second Constitutional Monarchy declarations; Libya and Balkan wars; First World War; period before the War of Independence, congresses, National Pact, establishment of Turkish Grand National Assembly."
+        }
+    },
+    {
+        "course_code": "PHYS101",
+        "title": "General Physics I (PHYS101)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": ".",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The goal of this course is, by providing the calculus-based concepts of mechanics,  to establish the relationships between mathematics, physics and engineering and apply the physical science to define and solve engineering  problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; To understand and apply solving problems of mechanics that lead to the understanding the fundamentals of related fields in engineering sciences. To understand the conceptual topics of mechanics and apply to engineering problems. To apply and integrate the basic science and the principles of engineering science. To enhance students` ability and motivation to solve unsolved problems in various fields To provide a useful introduction to the subject for engineering students to give them  the opportunity to establish conceptual relations between mechanics and a wide range of topics of engineering science",
+            "Course Content": "Measurement, motion along a straight line, vectors, motion in two and three dimensions, force and motion I, force and motion II, kinetic energy and work, potential energy and conservation of energy, center of mass and linear momentum, rotation, rolling, torque, and angular momentum, equilibrium and elasticity."
+        }
+    },
+    {
+        "course_code": "ENG101",
+        "title": "English For Academic Purposes I (ENG101)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Demonstration, Discussion, Question and Answer, Drill and Practice, Team/Group, Brain Storming, Project Design/Management.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor MDB Öğretim Görevlileri / DML Instructors",
+            "Course Assistants": "",
+            "Course Objectives": "This course aims to:\n•\thelp students improve their academic skills, which are crucial in their departmental courses to follow with ease as an Independent User in level B2 as stated in Common European Framework of Reference. \n•\thelp students develop higher order thinking skills and improve English study skills through written and oral argumentation and use of technology.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Reading\n•\tread critically to identify main idea(s) and supporting details,\n•\tenrich their range of vocabulary,\n•\tidentify the text type and purpose of the author, Listening\n•\tlisten effectively to analyse and reflect on oral input. Speaking\n•\tgive mini presentations, Writing\n•\tAnalyse and interpret a scientific visual in writing,",
+            "Course Content": "English language skills, especially academic skills, such as reading comprehension, vocabulary building and critical analysis of texts; listening and note-taking, class discussions, presentations, writing, research assignments and use of technology."
+        }
+    },
+    {
+        "course_code": "CMPE109",
+        "title": "Fundamentals of Computing  (CMPE109)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The main objective of this course is to introduce the engineering profession, career opportunites of the profession and to address ethical issues in informatics. Also, the course aims at giving an overview of computer science by discussing the basic machine architecture and the machine language, data representation, operating systems, networking and the Internet and programming languages.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Identify different aspects of CMPE/SE/ISE Describe Ethical Issues in computing Describe the internal workings of a computer and data representation Create simple machine language instructions to solve a problem Explain the functions of operating systems, networking Classify programming languages Identifies the networking strategies and uses of Internet",
+            "Course Content": "Engineering fundamentals, computer engineering as a profession, career opportunities, professional organizations for computer engineering, ethical issues in computing; hardware components of a computer system; data representation and machine language instructions; coordinating internal activities of a computer using operating systems; networking"
+        }
+    },
+    {
+        "course_code": "MATH151",
+        "title": "Calculus I (MATH151)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course is designed to fill the gaps in students knowledge that they have in their pre-college education and then to give them computational skills in one-variable differential and integral calculus  to handle engineering problems",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand, define and use functions, and represent them by means of graphs understand fundamental concepts of limit and continuity understand the meaning of derivative and calculate derivatives of one-variable functions use derivatives to solve problems involving maxima, minima, and related rates understand integration, know integration techniques, use them to solve area, volume and other problems",
+            "Course Content": "Preliminaries, limits and continuity, differentiation, applications of derivatives, L`Hopital's Rule, integration, applications of integrals, integrals and transcendental functions, integration techniques and improper integrals, squences."
+        }
+    },
+    {
+        "course_code": "CHE105",
+        "title": "General Chemistry (CHE105)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Demonstration, Discussion, Experiment, Question and Answer, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "aaaaa",
+            "Course Learning Outcomes": "The students who succeeded in this course; aaa",
+            "Course Content": "Matter and measurement, atoms, molecules and ions, stoichiometry: calculations with chemical formulas and equations, oxidation-reduction reactions, thermochemistry, electronic structure of atoms, periodic properties of the elements, basic concepts of chemical bonding, molecular geometry and bonding theories, gases, intermolecular forces, liquids and solids, chemical kinetics, chemical thermodynamics, electrochemistry."
+        }
+    },
+    {
+        "course_code": "HIST102",
+        "title": "Principles of Atatürk and History of Turkish Revolution II (HIST102)",
+        "details": {
+            "Course Language": "Turkish",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Distance",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Asst. Prof. Dr. Gültekin K. Birlik",
+            "Course Assistants": "",
+            "Course Objectives": "To teach patriotism to students; to make them aware of significance of Atatürk’s principles and raise them as loyal subjects to these principles; to give them insight into the processes of modern democratic administrative modes by improving their understanding of democracy.\nTo enable the students to acquire the appropriate attitude, behaviour and skills to be able to find solutions to contemporary problems against the backdrop of Ataturk’s principles.",
+            "Course Learning Outcomes": "The students who succeeded in this course; The students know the following issues in the historical process from the declaration of Turkish Republic to the present:\nthe political events of the period in a cause and effect chain.\nthe important economic decisions and their results.\nthe trajectory of the history of Turkish democracy.\nthe substantial issues in Turkish Constitution.\nthe causes and effects of World War II.\nthe principles of Atatürk.",
+            "Course Content": "War of Independence; Lausanne Treaty; declaration of the Republic; removal of sultanic rule and caliphate; Atatürk`s revolutions; establishment of national economy; Second World War, before and after; Turkish Republic after 1960."
+        }
+    },
+    {
+        "course_code": "PHYS102",
+        "title": "General Physics II (PHYS102)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": ".",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The goal of this course is, by giving the calculus-based concepts of electricity and magnetism,  to establish the relationships between mathematics and fundamentals of electricity  and magnetism and apply this knowledge to define and solve engineering  problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; To understand and apply solving problems of  electricity and magnetism that lead to understanding the fundamentals of related fields in engineering sciences To understand the conceptual topics of general physics and apply to engineering problems To apply and integrate the basic science and the principles of engineering science To understand how to elaborate topics of physical science,  such as electricity, and apply to engineering problems To provide a basic science oriented introduction for the engineering  students to give them  the opportunity to establish conceptual relations between the electricity and magnetism and a wide range of topics of engineering sciences.",
+            "Course Content": "Electric charge, electric fields, Gauss` law, electric potential, capacitance, current and resistance, circuits, magnetic fields, magnetic fields due to currents, induction and inductance."
+        }
+    },
+    {
+        "course_code": "HIST221",
+        "title": "History of Civilization  (HIST221)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Distance",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Asst. Prof. Dr. Gül Kania",
+            "Course Assistants": "",
+            "Course Objectives": "Through out this course from the treatment of the earliest culturesand civilizations to the discussion of the later ones we pursue certain key elements, such as social and political structures, science, technology, religion, cultural expressions, trade, philosophies, ideologies.",
+            "Course Learning Outcomes": "The students who succeeded in this course; To learn different cultures, civilizations, throughout the world with their contributions To learn and understand ancient beliefs, ideas and philosophies To illustrate the developments and improvements of ancient cultures and civilizations Analyzing and understanding the social, political structures of various civilizations",
+            "Course Content": "A chronological order of the rise of civilizations from Sumer until the Scientific Revolution."
+        }
+    },
+    {
+        "course_code": "ENG102",
+        "title": "English for Academic Purposes II (ENG102)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Demonstration, Discussion, Question and Answer, Drill and Practice, Problem Solving, Team/Group, Brain Storming, Project Design/Management.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor MDB Öğretim Görevlileri / DML Instructors",
+            "Course Assistants": "",
+            "Course Objectives": "This course aims to: \n•\thelp students improve their academic skills, which are crucial in their departmental studies to enable them to follow their departmental courses with ease as an Independent User at level B2 as stated in the Common European Framework of Reference,\n•\thelp students develop critical thinking skills and further improve English study skills through written and oral activities and use of  technology.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Reading \n•\tread and analyse texts critically, \n•\tmake inferences and draw logical conclusions based on textual evidence,\n•\tevaluate an author’s thesis in a critical way to develop for and against arguments. Listening \n•\tdemonstrate critical listening skills to get the gist and key information from oral input. Speaking \n•\tArticulate critical reflections and actively engage in-class discussions,\n•\tgive theme-based short presentations. Writing\n•\tproduce a well-structured, coherent, and persuasive academic essays with a clear thesis, supporting arguments, using appropriate and accurate language.",
+            "Course Content": "Academic skills such as reading comprehension, class discussions, use of academic vocabulary and critical analysis of texts; research assignments and review of the English language structure; skills such as listening and note-taking, analysis of written products, writing, presentation and use of technology."
+        }
+    },
+    {
+        "course_code": "CMPE134",
+        "title": "Fundamentals of Electronic Components (CMPE134)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of the course is to teach; Basics of electronic circuit analysis, fundamentals of electronic circuit design (combinational and sequential) and electronic circuit components. Principles in semiconductor based electronic components and transistor-transistor logic (TTL).",
+            "Course Learning Outcomes": "The students who succeeded in this course; Discuss and interpret the basic concepts in electronic circuit analyses. Recall basic analyze and design principles of electronic circuit components. Describe electronic logical calculation technologies and methods Elaborate transistor-transistor logic running fundamentals.",
+            "Course Content": "Engineering abstraction in simple circuit analysis and models to represent actual circuit components; analysis of electronic circuits; the linearity and superposition theory; Thevenin and Norton equity principles in multi-component circuit analysis; first order RC and RL circuits, digital electronic components, fundamentals of logical calculations"
+        }
+    },
+    {
+        "course_code": "CMPE114",
+        "title": "Computer Programming II (CMPE114)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course gives the foundations of problem solving and programming using C Language.  The course aims students to have disciplined approach to program development. The course includes topics of modular programming, function design and structures used in programming. The course provides students to write readable programs with sufficient documentation.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Use pointers Use single and multidimensional arrays Process strings Design structures Practice with files",
+            "Course Content": "Pointers, dynamic memory management, parameter passing, arrays, strings, structures, file processing; application programs in a laboratory environment using the C language."
+        }
+    },
+    {
+        "course_code": "MATH152",
+        "title": "Calculus II (MATH152)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course is designed as a continuation of MATH151 Calculus I and aims to give the students the computational skills in series, analytic geometry and multi-variable differential and integral calculus  to handle engineering problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand and use sequences, infinite series, power series of functions, Taylor and Maclaurin series, use analytic geometry through vectors and interpret lines, planes and surfaces in 3-dimensional space, understand and use the functions of several variables, partial derivatives, directional derivatives, gradient vectors and tangent planes find local and absolute extrema of multivariable functions, use  Lagrange Multipliers and solve optimization problems, understand and use double and triple integrals in different coordinate systems",
+            "Course Content": "Infinite series, vectors in the plane and polar coordinates, vectors and motions in space, multivariable functions and their derivatives, multiple integrals: double integrals, areas, double integrals in polar coordinates, triple integrals in rectangular, cylindrical and spherical coordinates, line integrals, Independence of path,Green's theorem."
+        }
+    },
+    {
+        "course_code": "MATH275",
+        "title": "Linear  Algebra  (MATH275)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to enrich the knowledge of engineering students in linear algebra,  and to teach them  the basics and application of the methods for the solution of  linear systems occurring in engineering problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand the notion of matrix and perform algebraic operations on matrices, find the  inverse of a nonsingular matrix, solve linear systems by using echelon form of matrices, determine the existence and uniquness of the solution and determine infinitely many solutions, if any makes sense of vector spaces, subspaces, linear independence, basis and dimensions and  rank of a matrix, comprehend and use inner product, Gram-Schmidt process, orthogonal complements, understand and use linear transformation and associated matrices, evaluate determinants and solve linear systems with unique solution via determinant (Cramer’s Rule), understand and find eigenvalues and eigenvectors, determine if a matrix is diagonalizable, and if it is, diagonalize it.",
+            "Course Content": "Linear equations and matrices, real vector spaces, inner product spaces, linear transformations and matrices, determinants, eigenvalues and eigenvectors."
+        }
+    },
+    {
+        "course_code": "ENG201",
+        "title": "English for Academic Purposes III (ENG201)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Demonstration, Discussion, Question and Answer, Drill and Practice, Problem Solving, Team/Group, Brain Storming, Project Design/Management.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor MDB Öğretim Görevlileri / DML Instructors",
+            "Course Assistants": "",
+            "Course Objectives": "The overall aim of this course is to help students further improve their academic reading, writing, listening, and speaking skills in an integrated fashion. It also aims to promote learner autonomy so that students can transfer these skills to their academic and professional lives.\nThe students who successfully complete this course are expected to be Independent Users at level B2 according to Common European Framework of Reference.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Reading:\n• Apply a range of reading strategies to identify main ideas/supporting details in academic texts and evaluate them, \n• Distinguish between literal and implied meanings,\n• Extract and synthesise relevant information from different sources, Listening:\n• Identify main ideas and supporting details in audio or video recordings,\n• Critically evaluate oral content and respond appropriately, Speaking:\n• Express and support opinions clearly and confidently in discussions, using relevant content and appropriate language, \n• Prepare and deliver a clear, well-structured poster presentation using language accurately and appropriately. Writing:\n• Analyse sample reflection papers to identify key features,\n• Produce a clear, well-organized reflection paper with appropriate content and accurate language,",
+            "Course Content": "The course includes integrated academic skills activities focusing on reading, writing, listening, and speaking. Students read various texts, listen to recordings, write reflection papers, participate in class discussions, and deliver poster presentations. They develop their productive skills through interactive communicative activities such as brainstorming, pair and group discussions, peer feedback, and written and oral tasks. These tasks are based on up-to-date authentic materials and are delivered through a digital platform that offers various engaging interactive tools such as polls, surveys, and link-based activities."
+        }
+    },
+    {
+        "course_code": "CMPE251",
+        "title": "Discrete Computational Structures (CMPE251)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of this course is to teach mathematical concepts that are fundamental to computer science.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Apply mathematical reasoning and combinatorial analysis Design discrete structures for computations Apply algorithmic thinking Formulate problems using  mathematical structure",
+            "Course Content": "Basic mathematical objects of computational mathematics: sets, sequences, relations, functions, and partitions; deductive mathematical logic proof techniques; discrete number systems; induction and recursion; graphs and sub-graphs; trees; planarity of graphs; covering problems; path problems; directed graphs; combinatorics."
+        }
+    },
+    {
+        "course_code": "CMPE225",
+        "title": "Object-Oriented Programming (CMPE225)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course teaches how to generate abstractions to represent a class of objects sharing a set of attributes or behavioral traits. In this course, the students are introduced to a method of programming that seeks to mimic the way we form models of the world using UML. By using these abstractions the students get a chance to apply the three main properties of object-oriented languages; namely, encapsulation, inheritance and polymorphism using the C++ language.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Explain method of programming that seeks to mimic the way we form models of the world using UML Apply encapsulation, inheritance, polymorphism Use function and operator overloading Employ exception handling Apply function and class templates Employ object oriented approach to program development",
+            "Course Content": "Data types, expressions and statements, functions and scope rules, class definitions, inheritance, polymorphism, name overloading, templates, exception handling; input/output; object oriented principles using the UML and C++ programming language."
+        }
+    },
+    {
+        "course_code": "EE203",
+        "title": "Digital Circuits and Systems (EE203)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Experiment, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor Hayrettin KARABUDAK Assoc. Prof. Dr. Umer KHAN Instructor Çağlar AKMAN Assoc. Prof. Dr. Mehmet BULUT",
+            "Course Assistants": "",
+            "Course Objectives": "The aim of the course is to provide fundamental concepts used in the analysis and design of digital circuits and systems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Able to analyze and design combinational circuits using tools such as Boolean algebra, Karnaugh map, and etc., arithmetic circuits using half adders, subtractors and full adders, subtractors, synchronous sequential circuits constructed with flip-flops, shift registers and counters, and construct combinational and sequential circuits and verify their operation using logic indicators and oscilloscopes.",
+            "Course Content": "Number systems and codes, Boolean algebra and logic gates, minimization of Boolean functions, combinational circuits, design of combinational circuits using SSI and MSI components, flip-flops, analysis and design of sequential circuits, counters, shift registers, memory elements, programmable logic devices (PLD), design with PLDs. Introduction to"
+        }
+    },
+    {
+        "course_code": "MATH276",
+        "title": "Differential Equations (MATH276)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course is specifically designed for engineering students as this material is applicable to many fields. The purpose of this course is to provide an understanding of ordinary differential equations (ODE's), systems of ODE’s and to give methods for solving them. This course provides also a preliminary information about partial differential equations (PDE's).",
+            "Course Learning Outcomes": "The students who succeeded in this course; be able to determine the existence and uniqueness of a solution and select the appropriate method for finding the solution. use appropriate methods for solution of first, second and higher order ODE’s. solve differential equations using power series and Laplace transform methods. solve linear systems of ODE’s by using elimination and Laplace transform methods. find Fourier series expansions of periodic functions. solve some elementary PDE’s such as heat, wave and Laplace equations by the method of separation of variables technique.",
+            "Course Content": "First-order, higher-order linear ordinary differential equations, series solutions of differential equations, Laplace transforms, linear systems of ordinary differential equations, Fourier analysis and partial differential equations."
+        }
+    },
+    {
+        "course_code": "IE220",
+        "title": "Probability and Statistics (IE220)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Service Courses Taken From Other Departments",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor Dr. Burcu DEVRİM İÇTENBAŞ",
+            "Course Assistants": "",
+            "Course Objectives": "In this course, the students will be learning fundamental concepts of the probability and statistics so that they can solve practical problems of engineering which requires statistical techniques.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Students will acquire and apply fundamental concepts of   probability theory to engineering problems. Students will develop an insight about the role of statistics for different engineering disciplines. Students will be able to evaluate and solve real life processes and problems using statistical applications. Students will be able to use a suitable computer-based statistical package for statistical analysis.",
+            "Course Content": "Introduction to probability and statistics; random variables and probability distributions; expected value; sampling distributions; one and two sample estimation problems; test of hypotheses; simple linear regression."
+        }
+    },
+    {
+        "course_code": "ENG202",
+        "title": "English for Academic Purposes IV (ENG202)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Demonstration, Discussion, Question and Answer, Drill and Practice, Problem Solving, Team/Group, Brain Storming, Role Play, Project Design/Management.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor MDB Öğretim Görevlileri",
+            "Course Assistants": "",
+            "Course Objectives": "This course aims to help the students of English medium departments acquire the basic theory and application of a research based report, including proper style (APA), organization, format, language, argumentation and reasoning skills and produce a well-written report at the level of B2* (Independent User) as stated in Common European Framework of Reference. This course also aims to help students improve their presentation skills by delivering a presentation of a research report.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Upon successful completion of ENG202, students will be able to: Preparation:\n•\tanalyze a research report to get its specific features,\n•\tchoose and narrow down a topic to write a research report,\n•\tsearch and evaluate appropriate and reliable sources,\n•\traise awareness about the basics of presentation. Production:\n•\tproduce the full written research report by:\n\tpreparing a detailed outline,\n\twriting the introductory, body, and conclusion sections of the research report,\n\tusing the theory and practice of in-text and end-of text citations properly,\n\trevising the report for coherence and accuracy, \n\tholding a discussion on the produced report using presentation skills.",
+            "Course Content": "Preparing and writing research reports and delivering effective oral/written informative and persuasive presentations; gathering information, organizing data, outlining, using appropriate techniques in presentation and delivering for a maximum impact, using visual aids and citation effectively."
+        }
+    },
+    {
+        "course_code": "CMPE226",
+        "title": "Data Structures (CMPE226)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer, Drill and Practice, Brain Storming.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course introduces the abstract concepts that are useful in problem solving, and shows how these concepts are implemented in a programming language. The students learn how to choose a suitable data structure for a specific problem, how to create more complex data structures using the already existing data types, and also how to implement and analyze the algorithms developed for these data structures. The students get a chance to apply their knowledge by completing assignments written in the C++ language.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Employ the data structure(s) necessary for a given problem Use linked lists, stacks, queues, and binary trees Apply recursion Apply searching, sorting, and hashing algorithms/techniques Identify the most appropriate data structure for the problem at hand Construct complex data structures using existing data types",
+            "Course Content": "Stacks, recursion, queues; creation and destruction of dynamic variables, serial linked lists, circular lists, doubly linked lists, circular doubly linked lists; sorting and searching algorithms, space and time considerations, binary trees, binary search trees, tree traversal algorithms, binary tree sorting algorithms, hashing."
+        }
+    },
+    {
+        "course_code": "CMPE236",
+        "title": "Introduction to Microprocessors and Microcontrollers (CMPE236)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice, Problem Solving, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of this course is to introduce basic microcontroller architecture and operations, to teach how to program a microcontroller using both assembly language and C to implement a given design.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Demonstrate the transfer of information, from register to register to memory for each instruction Describe the basis for interaction between the microcontroller and external hardware Explain the operation of microcontroller hardware, and be able to write programs using timers and counters. Define the operations performed by each assembly language instruction Define the operations performed by each C-language instruction for the microcontroller. Interpret and design C programs Develop mixed C/assembly language software Explain what occurs within the microcontroller on an interrupt and develop programs using interrupts",
+            "Course Content": "Introduction to microcontrollers, instruction set, serial port operation, interrupt operation, assembly language programming, program structure and design, tools and techniques for program development, design and interface examples in assembly, design and interface examples."
+        }
+    },
+    {
+        "course_code": "CMPE323",
+        "title": "Algorithms (CMPE323)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to teach students how to analyse and design algorithms and measure their complexities. In addition, students will be able to develop efficient algorithms for the solution of real life computational problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Analyze and design algorithms and measure their complexities Recognize the theoretical foundations of the algorithms Develop efficient algorithms for the solution of real life computational problems Implement  algorithms",
+            "Course Content": "Design and analysis of algorithms, O-notation, divide and conquer algorithms, dynamic programming, backtracking and branch and bound, lower bound theory, complexity of sorting and searching algorithms, graph algorithms, NP-hard and NP-complete problems, basic NPC problems, proving problems to be NPC, analysis of some string processing algorithms."
+        }
+    },
+    {
+        "course_code": "CMPE331",
+        "title": "Computer Architecture and Organization (CMPE331)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to teach fundamental units of computer systems including memory, CPU and I/O units",
+            "Course Learning Outcomes": "The students who succeeded in this course; Describe structure of a computer system Explain  how units of a computer system work together Recognize memory organization and its usage in computer systems Use  basics of internal data representation for data manipulation Experiment with low level programming Compare the performance of different  computer architectures Develop assembly programs to better understand internal workings of a computer system",
+            "Course Content": "Computer components, Von Neumann architecture, instruction execution, interrupts, bus structure and interconnection of components, memory: internal memory, cache and virtual memory, external memories. CPU: ALU, floating point arithmetic, instruction sets, addressing modes and formats; control unit: hardwired and micro-programmed control units;"
+        }
+    },
+    {
+        "course_code": "CMPE325",
+        "title": "Study of Programming Languages (CMPE325)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of this course is to teach different programming language concepts and paradigms, such as imperative, functional, and object-oriented paradigms. The students will be able to compare how different programming concepts are handled in different type of languages. The students get a chance to apply their knowledge by completing homework assignments written in example programming languages.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Discuss main constructs of contemporary programming languages Gain necessary knowledge for the evaluation of programming languages Gain necessary background knowledge for the compiler design.",
+            "Course Content": "Study of programming language concepts: syntax and semantics, types, values, expressions, and statements; program structure; procedures and functions; structured data; abstraction and encapsulation; inheritance; dynamic binding; concepts of programming paradigms by means of functional, procedural, and object-oriented programming languages."
+        }
+    },
+    {
+        "course_code": "CMPE399",
+        "title": "Summer Practice I (CMPE399)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "",
+            "Learning and Teaching Strategies": ".",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is conducted to provide students industrial exposure. Students are required to prepare a report based on their experience during the summer practice.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Gain familiarity with the industrial environment Recognize the software and hardware developed and used at the company Gain experience in real life problems and projects of the industry Prepare a report based on the experiences gained during the summer practice",
+            "Course Content": "A minimum of six weeks of training in the industry involving the observation of the hardware and software components of a computer system in use; a summer practice report is prepared that lists the experiences of the student during the six weeks period."
+        }
+    },
+    {
+        "course_code": "CMPE341",
+        "title": "Database Design and Management (CMPE341)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course involves students in real-life problems and theory on database systems and encourages teamwork in the design and implementation of database systems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Describe fundamental concepts of database systems Practice on ER and EER data modeling Design and implement a relational database system Use SQL for database querying",
+            "Course Content": "Database system concepts, data modeling with ER and EER, the relational data model, file organizations and index structures, relational algebra, structured query language (SQL); database design: functional dependence and table normalization; introduction to database administration; a relational DBMS in a laboratory environment."
+        }
+    },
+    {
+        "course_code": "SE346",
+        "title": "Software Engineering  (SE346)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Service Courses Taken From Other Departments",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of this course is to introduce computer software and its types, the fundamental concepts of Software Engineering discipline, various software process models, the phased-approach of software development, and activities of each phase, the tools and techniques used in various activities of the phased-approach of software development, software project and configuration management concepts, quality assurance, software engineering economics, and other Software Engineering issues such as ethical and professional issues.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Describe methods for the analysis, design and maintenance of software systems Gain necessary information for the analysis and design of quality software Identify the development life cycle and related process and methods Explain basics of software project management and its main drivers such as cost, schedule, quality and risk Use software metrics to measure software quality and project performance Attain knowledge on the use of CASE tools",
+            "Course Content": "Software project management: metrics, estimation, scheduling, planning; software requirement analysis techniques, software design techniques, software implementation, software quality assurance and testing, software maintenance, software configuration management, risk management in software development projects, recent trends and methods in softwar"
+        }
+    },
+    {
+        "course_code": "CMPE334",
+        "title": "Computer Networks (CMPE334)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": ".",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The objective of the course is to teach fundamentals of data communication and computer networks with a special emphasis on the suits, protocols and applications building up the nowadays’ Internet network.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Discuss the concepts of data communication, networking, protocols and standards Express the communication requirements of computers/computer networks by using different network topologies and protocols Describe OSI layered architecture for computer networks. Identify the functions of TCP/IP and the matching with OSI layers Recall basic knowledge of the data communication devices/equipments, their functions and usage Review the running principles of well known applications in Internet Implement OS network services by using socket programming",
+            "Course Content": "Basic concepts of computer networking; application layer and well-known applications; transport layer, UDP and TCP services; network layer, IPv4 addresses, forwarding and routing; data link layer, MAC addresses, HUBs and switches; physical layer properties and standards."
+        }
+    },
+    {
+        "course_code": "CMPE326",
+        "title": "Formal Languages and Automata  (CMPE326)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to provide the skills to appreciate and understand the formal definition of computation, and language. The students will be introduced to the definitions and properties of mathematical models of computation with automata theory.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Use finite automata as a tool to describe computing Analyze grammars and languages as they are applied to computer languages Construct Push-down automata as a parsing tool of compilation Develop Turing machine models for computability Build theoretical machines or models for hardware and software",
+            "Course Content": "Languages and their representations, finite automata and regular grammars, context-free grammars, concept of abstract machines and language acceptance, deterministic and non-deterministic finite state machines, pushdown automata, Turing machines and introduction to the theory of computation."
+        }
+    },
+    {
+        "course_code": "MATH380",
+        "title": "Numerical Methods for Engineers (MATH380)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Service Courses Taken From Other Departments",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Experiment, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This undergraduate course is designed for engineering students. The objective of this course is to introduce some numerical methods that can be used to solve mathematical problems arising in engineering that can not be solved analytically.  The philosophy of this course is to teach engineering students how methods work so that they can construct their own computer programs.",
+            "Course Learning Outcomes": "The students who succeeded in this course; solve a non-linear equation in science and engineering by using the MATLAB programming. solve a linear system by using a suitable method in science and engineering via the MATLAB programming. find the eigenvalues and eigenvectors of a given matrix. learn how to use the interpolation. learn how to derive the approximations for the derivatives. learn the approximate computation of an integral using numerical techniques.",
+            "Course Content": "Solution of nonlinear equations, solution of linear systems, eigenvalues and eigenvectors, interpolation and polynomial approximation, least square approximation, numerical differentiation, numerical integration."
+        }
+    },
+    {
+        "course_code": "TURK201",
+        "title": "Turkish I (TURK201)",
+        "details": {
+            "Course Language": "Turkish",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice, Role Play.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor Dr. Gökçe Ulus",
+            "Course Assistants": "",
+            "Course Objectives": "The aim of this course is to teach the students basic Turkish expressions by exposing them completely to Turkish. Students will be able to express their daily needs, become accustomed to Turkish sounds, and be able to communicate with correct pronunciation. According to the European Language Portfolio, A1 level is completed.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Reading:\r\n•\twill be able to read and follow the instructions,\r\n•\twill develop their reading skills, Speaking:\r\n•\twill be able to give personal information,\r\n•\twill be able to talk about their daily activities, Listening:\r\n•\twill be able to find the main idea in the texts they listen to,\r\n•\twill be able to develop skills on the spelling and usage of Turkish through listening, Writing:\n•\twill be able to complete dialogs and answer the related questions,\n•\twill be able to write short texts on various topics, Use of Technology:\r\n•\twill be able to develop independent study skills working on the assignments using computer technology. • Learn to build Turkish sentences,\n• Understand slowly spoken instructions\n• learn the Turkish alphabet,\n• Memorize frequently used asset and concept names,\n• Will be able to express daily needs,\n• Know the news modes,\n• Ask questions,\n• Will be able to introduce himself and his environment,\n• Simply describe the location,\n• Will be able to tell the time and phone number,\n• will be able to report the situation correctly if he / she has health problems.",
+            "Course Content": "The alphabet; giving and asking personal information, ordering food and drink, telling the time, talking about habits, talking about familiy, talking about clothes, etc."
+        }
+    },
+    {
+        "course_code": "TURK401",
+        "title": "Turkish Language I (TURK401)",
+        "details": {
+            "Course Language": "Turkish",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Distance",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer, Drill and Practice, Observation Case Study, Brain Storming.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor Dr. Gökçe Ulus",
+            "Course Assistants": "",
+            "Course Objectives": "•\tTo create native tongue consciousness and sympathy among students by getting them comprehend Turkish language’s structure, process, wealth and other characteristics. \r\n•\tTo gain consciousness to students personally and academically for their processes of development. \r\n•\tTo create a view about Turkish Republic’s langage and culture heritages.",
+            "Course Learning Outcomes": "The students who succeeded in this course; S/he will know each language all around the world and the value of her/his own language’s place among them. S/he will internalize Turkish language deeply to express himself/herself in social life. S/he will learn and use his/her mother tongue well. S/he will derive a benefit from various disciplines by penetrating into his/her own language.",
+            "Course Content": "Languages and their classification; history of Turkish language, its spread over the world and its place among other languages; Turkish language in the republic era; orthography; expressions; foreign words, suffixes and prefixes; punctuation; language and verbalism."
+        }
+    },
+    {
+        "course_code": "CMPE499",
+        "title": "Summer Practice II (CMPE499)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Problem Solving, Team/Group, Brain Storming, Project Design/Management.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is conducted to provide students industrial exposure. Students are required to prepare a report based on their experience during the summer practice.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Gain familiarity with the industrial environment Recognize the software and hardware developed and used at the company Gain experience in real life problems and projects of the industry Participate in software/hardware development projects Prepare a report based on the experiences gained during the summer practice",
+            "Course Content": "A minimum of six weeks of training in an IT department/company involving the observation of the hardware and software components of a computer system; students are expected to be involved in software/hardware development projects of the IT department/company; a summer practice report is prepared that presents the experiences of the student during"
+        }
+    },
+    {
+        "course_code": "ISE441",
+        "title": "Practical Machine Learning (ISE441)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "",
+            "Learning and Teaching Strategies": ".",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "",
+            "Course Learning Outcomes": "The students who succeeded in this course;",
+            "Course Content": "Data collection, Data preprocessing, Data visualization and analysis, Feature engineering, Machine learning\r\nalgorithms, Machine learning model selection and training, Model testing and evaluation, Hyperparameter\r\noptimization, Crossvalidation"
+        }
+    },
+    {
+        "course_code": "TURK402",
+        "title": "Turkish Language II (TURK402)",
+        "details": {
+            "Course Language": "Turkish",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Distance",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Question and Answer, Drill and Practice, Observation Case Study, Brain Storming.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "Instructor Dr. Gökçe Ulus",
+            "Course Assistants": "",
+            "Course Objectives": "•\tTo create native tongue consciousness and sympathy among students by getting them comprehend Turkish language’s structure, process, wealth and other characteristics. \r\n•\tTo gain consciousness to students personally and academically for their processes of development. \r\n•\tTo create a view about Turkish Republic’s langage and culture heritages.",
+            "Course Learning Outcomes": "The students who succeeded in this course; S/he will know each language all around the world and the value of her/his own language’s place among them. S/he will internalize Turkish language deeply to express himself/herself in social life. S/he will learn and use his/her mother tongue well. S/he will derive a benefit from various disciplines by penetrating into his/her own language.",
+            "Course Content": "Written expression and its genres; bibliography; sentence structure and types; misexpression; verbal expressions."
+        }
+    },
+    {
+        "course_code": "CMPE494",
+        "title": "Senior Project (CMPE494)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course aims to teach developing, testing, reporting, and presenting  a project according to established project development principles collaboratively in a team environment.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Plan, design, develop and test a product  collaboratively in a team environment Design a product according to  the user/system requirements Develop a product according to the specifications and a predetermined schedule Employ relevant testing methods to validate/verify the product Summarize and describe the findings in a comprehensive document",
+            "Course Content": "Project analysis and design, project development, project management, team working, project presentation."
+        }
+    },
+    {
+        "course_code": "CMPE431",
+        "title": "Operating Systems (CMPE431)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to teach fundamental issues of operating systems such as processes, threads, scheduling, synchronization and deadlocks, and managing resources.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Describe the basic concepts of modern operating systems Illustrate the concept of a process and concurrency (synchronization, mutual exclusion, and deadlocks) Describe deadlock avoidance, detection, prevention and recovery Identify solution strategies, including semaphores, monitors, condition variables and threads Identify scheduling policies Discuss the concepts of  physical memory and memory management",
+            "Course Content": "Basic design principles of operating systems, single-user systems, command interpreter, semaphores, deadlock detection, recovery, prevention and avoidance; multi-user OS; resource managers, processor management and algorithms, memory management: partitioning, paging, segmentation and thrashing; device management; interrupt handlers, device drivers"
+        }
+    },
+    {
+        "course_code": "MATH111",
+        "title": "Basic Logic and Algebra (MATH111)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "To provide an introduction to logic, number theory and groups, rings and fields through examples. Moreover to encourage the students to investigate proofs of some algebraic expressions and theorems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; write a statement using logical expressions, evaluate logical expressions and perform the basic operations on sets, prove some  mathematical statements and theorems, determine whether a relation is an equivalence relation or not, understand and use divisibility and the Euclidean Algorithm, know elementary definitions and examples in groups, rings, and fields.",
+            "Course Content": "Logic, sets, induction, relations, functions, elementary number theory, elementary examples of groups, rings and fields, the real numbers."
+        }
+    },
+    {
+        "course_code": "MATH121",
+        "title": "Analytic Geometry I (MATH121)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed as a first year course for mathematics students. The goal of the course is to recover the sets, relations and functions and cartesian coordinates in the plane, to review line equations and some methods on graphing relations and functions and also graphs in polar coordinates, to have some basic ideas about vectors in the plane with some of their applications, to make some discussions on parabolas, ellipses, hyperbolas with graphs and their applications.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand the sets, relations and  functions understand Cartesian coordinates in the plane, lines and be able to sketch the of relations and graphs in polar coordinates understand vectors in the plane and their applications learn the parabola, ellipse and hyperbola and their applications",
+            "Course Content": "Fundamental principles of analytic geometry, cartesian coordinates, lines in plane, trigonometry, polar coordinates, rotation and translation in plane, conics."
+        }
+    },
+    {
+        "course_code": "MATH231",
+        "title": "Linear Algebra I (MATH231)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The aim of the course is to provide the basic linear algebra background needed by mathematicians. Many concepts in the course will be presented in the familiar setting of the plane and n-dimensional space, and will be developed with an awareness of how linear algebra is applied.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand basics of matrix theory, solve linear systems of equations using matrices, understand  fundamentals of vector spaces, understand the theory of linear transformations.",
+            "Course Content": "Matrices and linear equations, determinants, vector spaces, linear transformations."
+        }
+    },
+    {
+        "course_code": "MATH251",
+        "title": "Advanced Calculus I (MATH251)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is desined to introduce higher-level aspects of the calculus through a rigorous development of the fundamental ideas in the topic and to achieve a further development of the math student’s ability to deal with abstract mathematics and proofs.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Comprehend and use the functions of several variables, Comprehend and use the functions of several variables, Find extreme values for functions of two and three variables, Model and solve optimization problems with side conditions.",
+            "Course Content": "Vector and matrix algebra, functions of several variables: limit, continuity, partial derivatives, chain rule; implicit functions. inverse functions, directional derivatives, maxima and minima of functions of several variables, extrema for functions with side conditions."
+        }
+    },
+    {
+        "course_code": "MATH262",
+        "title": "Ordinary Differential Equations (MATH262)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to enrich the knowledge of mathematics students in differential equations after calculus. As a replacement and enlargement of currently given Math 262 Differential Equations course, it is intended to present the subject being motivated from the basic mathematical concepts such as differentiation, integration, power series and to include further applications related to differential equations mostly used in mathematical problems.",
+            "Course Learning Outcomes": "The students who succeeded in this course; be able to determine the existence and uniqueness of a solution and select the appropriate method for finding the solution. use appropriate methods for solution of first, second and higher order ODE’s. express physical laws in the language of differential equations. solve these equations by modern techniques and interpret his results in terms of the original problem. solve differential equations using power series and Laplace transform methods. solve linear systems of differential equations by elimination and Laplace transform methods.",
+            "Course Content": "First-order, higher-order linear ordinary differential equations, applications of first-order differential equations, series solutions of differential equations, Laplace transforms, linear systems of ordinary differential equations."
+        }
+    },
+    {
+        "course_code": "MATH232",
+        "title": "Linear Algebra II (MATH232)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Drill and Practice.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "Being a continuation of Math 231, the aim is to introduce the students to the very heart of the subject including topics such as inner product spaces and linear mappings on them, canonical (diagonal, triangular, Jordan, and rational) matrix forms of linear mappings, bilinear and quadratic forms.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand the basics of inner product spaces, decompose a vector space as a direct sum of its subspaces, obtain special types of matrices representing a given linear map, understand and find eigenvalues and eigenvectors, determine if a matrix is diagonalizable, and if it is, diagonalize it, find bases for eigenspaces, find bases for dual space of a vector space, understand fundamentals of bilinear and quadratic forms.",
+            "Course Content": "Eigenvalues and eigenvectors, elementary canonical forms, the rational and Jordan forms, inner product spaces, operators on Inner product spaces, bilinear forms."
+        }
+    },
+    {
+        "course_code": "MATH252",
+        "title": "Advanced Calculus II (MATH252)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Compulsory Departmental Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Discussion, Problem Solving.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "The course is designed as a continuation of Math 251 Advenced Calculus I and aims to introduce students higher-level aspects of the calculus through a rigorous development of the fundamental ideas in the topic and to achieve a further development of the math student's ability to deal with abstract mathematics and proofs.",
+            "Course Learning Outcomes": "The students who succeeded in this course; Comprehend and use vector and scalar fields, the gradient field and the curl of a vector field, Comprehend and use multiple integrals in different coordinate systems, Know and use the line and surface integrals together with their applications, Apply Green’s and Stoke’s theorems",
+            "Course Content": "Vector and scalar fields. Double integrals. Triple integrals. Integral of vector functions. Improper İntegrals. Line İntegrals. Green?s theorem. Surface integrals. The divergence Theorem. Stoke?s Theorem"
+        }
+    },
+    {
+        "course_code": "MATH325",
+        "title": "Elementary Number Theory (MATH325)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer, Team/Group.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to introduce the basic concepts of the theory of numbers.",
+            "Course Learning Outcomes": "The students who succeeded in this course; understand and use the properties of divisibility. solve linear Diophantine equations. solve congruences of various types, apply Chinese Remainder Theorem. understand and use Fermat's little theorem, Wilson's theorem. prove and apply properties of Euler’s phi-function. know the properties of Legendre symbol, use the laws of quadratic reciprocity.",
+            "Course Content": "Divisibility, congruences , Euler, Chinese Remainder and Wilson?s Theorems, arithmetical functions, primitive roots, quadratic residues and quadratic reciprocity, diophantine equations."
+        }
+    },
+    {
+        "course_code": "MATH232",
+        "title": "Finite Fields (MATH332)",
+        "details": {
+            "Course Language": "English",
+            "Course Type": "Elective Courses",
+            "Course Level": "Bachelor’s Degree (First Cycle)",
+            "Mode of Delivery": "Face To Face",
+            "Learning and Teaching Strategies": "Lecture, Question and Answer.",
+            "Course Coordinator": "",
+            "Course Lecturer(s)": "",
+            "Course Assistants": "",
+            "Course Objectives": "This course is designed to introduce the basic theory of field extensions and finite fields which have various applications in both cryptography and coding theory.",
+            "Course Learning Outcomes": "The students who succeeded in this course; gain knowledge about field extensions, be able to compute in a finite field, gain knowledge about polynomials over finite fields understand and use traces and norms in finite fields, learn how to factorize polynomials over finite fields.",
+            "Course Content": "Characterization of finite fields, roots of irreducible polynomials, trace, norm, roots of unity and cyclotomic polynomials, order of polynomials and primitive polynomials, irreducible polynomials, construction of irreducible polynomials, factorization of polynomials"
+        }
+    }
+]

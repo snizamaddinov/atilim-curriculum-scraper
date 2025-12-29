@@ -1,25 +1,5 @@
 [
     {
-        "data-lesson-code": "HIST101",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/199353/detail"
-    },
-    {
-        "data-lesson-code": "CMPE105",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/197536/detail"
-    },
-    {
-        "data-lesson-code": "HIST221",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/13352/detail"
-    },
-    {
-        "data-lesson-code": "ENG101",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9162/detail"
-    },
-    {
         "data-lesson-code": "MATH111",
         "data-circulum-id": "201",
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9161/detail"
@@ -30,64 +10,9 @@
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9163/detail"
     },
     {
-        "data-lesson-code": "MATH135",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9164/detail"
-    },
-    {
-        "data-lesson-code": "KRY111",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/19889/detail"
-    },
-    {
-        "data-lesson-code": "ATU100",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/199355/detail"
-    },
-    {
-        "data-lesson-code": "MATH112",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9169/detail"
-    },
-    {
-        "data-lesson-code": "HIST102",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/199354/detail"
-    },
-    {
-        "data-lesson-code": "ENG102",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9168/detail"
-    },
-    {
-        "data-lesson-code": "MATH122",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9170/detail"
-    },
-    {
-        "data-lesson-code": "MATH136",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9171/detail"
-    },
-    {
-        "data-lesson-code": "CMPE102",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9172/detail"
-    },
-    {
         "data-lesson-code": "MATH231",
         "data-circulum-id": "201",
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9175/detail"
-    },
-    {
-        "data-lesson-code": "PHYS101",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9177/detail"
-    },
-    {
-        "data-lesson-code": "ENG201",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9174/detail"
     },
     {
         "data-lesson-code": "MATH251",
@@ -95,24 +20,9 @@
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9176/detail"
     },
     {
-        "data-lesson-code": "CMPE221",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/18042/detail"
-    },
-    {
         "data-lesson-code": "MATH262",
         "data-circulum-id": "201",
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9181/detail"
-    },
-    {
-        "data-lesson-code": "PHYS102",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9182/detail"
-    },
-    {
-        "data-lesson-code": "ENG202",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9178/detail"
     },
     {
         "data-lesson-code": "MATH232",
@@ -125,58 +35,13 @@
         "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9180/detail"
     },
     {
-        "data-lesson-code": "MATH331",
+        "data-lesson-code": "MATH325",
         "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9183/detail"
+        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/12142/detail"
     },
     {
-        "data-lesson-code": "MATH351",
+        "data-lesson-code": "MATH232",
         "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9184/detail"
-    },
-    {
-        "data-lesson-code": "MATH392",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9185/detail"
-    },
-    {
-        "data-lesson-code": "MATH346",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9188/detail"
-    },
-    {
-        "data-lesson-code": "MATH374",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9189/detail"
-    },
-    {
-        "data-lesson-code": "CMPE321",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/18043/detail"
-    },
-    {
-        "data-lesson-code": "MATH340",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/200533/detail"
-    },
-    {
-        "data-lesson-code": "MATH357",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/12150/detail"
-    },
-    {
-        "data-lesson-code": "TURK401",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/18044/detail"
-    },
-    {
-        "data-lesson-code": "TURK402",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/18045/detail"
-    },
-    {
-        "data-lesson-code": "MATH411",
-        "data-circulum-id": "201",
-        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/9200/detail"
+        "detail_link": "https://www.atilim.edu.tr/en/ects/site-courses/201/12144/detail"
     }
 ]
